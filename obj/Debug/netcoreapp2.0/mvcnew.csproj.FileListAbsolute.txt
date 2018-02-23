@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.deps.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.runtimeconfig.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.runtimeconfig.dev.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\mvcnew\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.pdb
